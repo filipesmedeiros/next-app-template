@@ -1,8 +1,9 @@
 import type { AppProps } from 'next/app'
-import type { FC } from 'react'
+import { FC, useEffect } from 'react'
 import 'tailwindcss/tailwind.css'
 
 const MyApp: FC<AppProps> = ({ Component, pageProps }) => {
+  useEffect(() => {}, [useEffect])
   return <Component {...pageProps} />
 }
 
