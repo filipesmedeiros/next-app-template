@@ -1,3 +1,5 @@
 .husky
 .prettierignore
 .gitignore
+yarn.lock
+node-modules

@@ -1,29 +1,29 @@
-# Next.js + Tailwind CSS Example
+# next.js app starter template
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+this is a template repo for starting a next.js app fast and efficiently.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+for the app it uses:
 
-## Preview
+1. 🚀 [next.js](https://nextjs.org/) (duh)
+2. 💅 [tailwindcss](https://tailwindcss.com/)
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+for development it uses:
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+1. 👕 [typescript](https://www.typescriptlang.org/)
+2. ✨ [hygen](https://www.hygen.io/)
 
-## Deploy your own
+## how to use
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+use github's "use this template" feature.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+i recommend deploying to vercel, initially. you should decide based on your case! :)
 
-## How to use
+## why
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+i needed to stop repeating myself everytime i wanted to bootstrap a new project. this seems like a good base for every type of project. i tried not to be intrusive with the stack chosen.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+you can start with tw and remove it later if you don't like it (replace it for something like [stiches](https://stitches.dev/))
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## preview
+
+[![open in stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/filipesmedeiros/next-app-template)

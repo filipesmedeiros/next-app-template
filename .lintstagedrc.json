@@ -1,4 +1,3 @@
 {
-  "*": "yarn format",
-  "**/*.css": ["yarn lint:css"]
+  "*": "yarn prettier --write"
 }

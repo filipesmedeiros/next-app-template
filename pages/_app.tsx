@@ -3,7 +3,7 @@ import { FC, useEffect } from 'react'
 import 'tailwindcss/tailwind.css'
 
 const MyApp: FC<AppProps> = ({ Component, pageProps }) => {
-  useEffect(() => {}, [useEffect])
+  useEffect(() => {}, [])
   return <Component {...pageProps} />
 }
 
