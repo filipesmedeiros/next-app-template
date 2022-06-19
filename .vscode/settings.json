@@ -6,9 +6,6 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[svelte]": {
-    "editor.defaultFormatter": "svelte.svelte-vscode"
-  },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -37,7 +34,6 @@
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "terminal.integrated.automationShell.linux": "",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -48,10 +44,8 @@
   "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "svelte.enable-ts-plugin": true,
   "workbench.colorTheme": "GitHub Dark Default",
-  "window.zoomLevel": 2,
-  "redhat.telemetry.enabled": true,
+  "window.zoomLevel": 0,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "eslint.format.enable": true,
